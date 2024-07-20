@@ -4,7 +4,7 @@
   <p>I am Frontend Developer</p>
 </h1>
 
-__I've been studying frontend development for over a year and have been working with modern versions of HTML, CHSS and YS. I also use additional modern tools to speed up development and improve code quality, I know and apply in modern practice of project architecture, their implementation and support.__
+__I've been studying frontend development for over a year and have been working with modern versions of HTML, CSS and JS. I also use additional modern tools to speed up development and improve code quality, I know and apply in modern practice of project architecture, their implementation and support.__
 
 
 🧠   I'm learning TypeScript, React
