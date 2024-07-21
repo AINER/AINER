@@ -9,10 +9,6 @@ __I've been studying frontend development for over a year and have been working 
 
 🧠   I'm learning TypeScript, React
 
-🌍   I'm based in Moscow
-
-✉️   You can contact me at [dv.demin@outlook.com](mailto:dv.demin@outlook.com)
-
 ## My tech stack
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
