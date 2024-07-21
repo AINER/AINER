@@ -1,7 +1,9 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-  <p>Hi, my name is Denis</p>
+  <p>Hi, my name is Denis Demin</p>
   <p>I am Frontend Developer</p>
+  <a href="https://t.me/O_nlog_n"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=2ca5e0"/></a>  
+  <a href="mailto:mail@htmlacademy.ru"><img src="https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail&logoColor=Black"/></a>
 </h1>
 
 __I've been studying frontend development for over a year and have been working with modern versions of HTML, CSS and JS. I also use additional modern tools to speed up development and improve code quality, I know and apply in modern practice of project architecture, their implementation and support.__
@@ -13,6 +15,8 @@ __I've been studying frontend development for over a year and have been working 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/javascript-efd003?style=for-the-badge&logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white"/>  
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Figma-1d1d1e?style=for-the-badge&logo=figma&logoColor=white"/>  
