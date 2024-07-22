@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-  <p>Hi, my name is Denis Demin</p>
+  <p>Hi, my name is Denis</p>
   <p>I am Frontend Developer</p>
   <a href="https://t.me/O_nlog_n"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=2ca5e0"/></a>  
   <a href="mailto:mail@htmlacademy.ru"><img src="https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail&logoColor=Black"/></a>
