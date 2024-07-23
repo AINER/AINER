@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
   <p>Hi, my name is Denis</p>
   <p>I am Frontend Developer</p>
-  <a href="https://t.me/O_nlog_n"><img src="https://img.shields.io/badge/Telegram: O_nlog_n-2CA5E0?style=social&logo=telegram&logoColor=2ca5e0"/></a>  
-  <a href="mailto:dv.demin@outlook.com"><img src="https://img.shields.io/badge/Email: dv.demin@outlook.com-D14836?style=social&logo=gmail&logoColor=red"/></a>
+
 </h1>
 
 
@@ -12,6 +11,8 @@ I've been studying frontend development for over a year and have been working wi
 🌱  I'm learning TypeScript and React
 
 🌍  I speak English and Russian
+
+💌  Get touch with me:  [Telegram: O_nlog_n](https://t.me/O_nlog_n)  •  [Email: dv.demin@outlook.com](mailto:dv.demin@outlook.com)
 
 
 ## My tech stack
@@ -28,6 +29,9 @@ I've been studying frontend development for over a year and have been working wi
 
 
 <!--
+<a href="https://t.me/O_nlog_n"><img src="https://img.shields.io/badge/Telegram: O_nlog_n-2CA5E0?style=social&logo=telegram&logoColor=2ca5e0"/></a>  
+<a href="mailto:dv.demin@outlook.com"><img src="https://img.shields.io/badge/Email: dv.demin@outlook.com-D14836?style=social&logo=gmail&logoColor=red"/></a>
+  
 [![AINER's GitHub | Stats](https://stats.quira.sh/AINER/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=AINER)
 [![AINER's Stack Overflow | Stats](https://stats.quira.sh/AINER/stack-overflow?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=AINER)
 
