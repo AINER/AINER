@@ -4,10 +4,9 @@
   <p>I am Frontend Developer</p>
   <a href="https://t.me/O_nlog_n"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=2ca5e0"/></a>  
   <a href="mailto:mail@htmlacademy.ru"><img src="https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail&logoColor=Black"/></a>
-  
 </h1>
 
-__I've been studying frontend development for over a year and have been working with modern versions of HTML, CSS and JS. I also use additional modern tools to speed up development and improve code quality, I know and apply in modern practice of project architecture, their implementation and support.__
+I've been studying frontend development for over a year and have been working with modern versions of HTML, CSS and JS. I also use additional modern tools to speed up development and improve code quality, I know and apply in modern practice of project architecture, their implementation and support.
 
 
 🌱  I'm learning TypeScript and React
@@ -18,9 +17,9 @@ __I've been studying frontend development for over a year and have been working 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg"/> 
 <img src="https://github.com/AINER/AINER/blob/main/js.svg"/> 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg"/> 
