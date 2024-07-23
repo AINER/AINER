@@ -9,9 +9,27 @@
 __I've been studying frontend development for over a year and have been working with modern versions of HTML, CSS and JS. I also use additional modern tools to speed up development and improve code quality, I know and apply in modern practice of project architecture, their implementation and support.__
 
 
-🧠   I'm learning TypeScript, React
+🌱  I'm learning TypeScript and React
+
+🌍  I speak English and Russian
 
 ## My tech stack
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg"/> 
+
+
+<!--
+[![AINER's GitHub | Stats](https://stats.quira.sh/AINER/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=AINER)
+[![AINER's Stack Overflow | Stats](https://stats.quira.sh/AINER/stack-overflow?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=AINER)
+
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/javascript-efd003?style=for-the-badge&logo=javascript&logoColor=black"/>  
@@ -21,8 +39,6 @@ __I've been studying frontend development for over a year and have been working 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Figma-1d1d1e?style=for-the-badge&logo=figma&logoColor=white"/>  
 
-
-<!--
 **AINER/AINER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
