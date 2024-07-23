@@ -17,7 +17,7 @@ __I've been studying frontend development for over a year and have been working 
 ## My tech stack
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg"/> 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/> 
+<img src="https://github.com/AINER/AINER/blob/main/js.svg"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg"/> 
