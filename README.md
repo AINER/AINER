@@ -9,10 +9,10 @@
 
 I've been studying frontend development for over a year and have been working with modern versions of HTML, CSS and JS. I also use additional modern tools to speed up development and improve code quality, I know and apply in modern practice of project architecture, their implementation and support.
 
-
 🌱  I'm learning TypeScript and React
 
 🌍  I speak English and Russian
+
 
 ## My tech stack
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" height="27"/> 
