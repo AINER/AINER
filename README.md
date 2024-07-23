@@ -4,6 +4,7 @@
   <p>I am Frontend Developer</p>
   <a href="https://t.me/O_nlog_n"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=2ca5e0"/></a>  
   <a href="mailto:mail@htmlacademy.ru"><img src="https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail&logoColor=Black"/></a>
+  
 </h1>
 
 __I've been studying frontend development for over a year and have been working with modern versions of HTML, CSS and JS. I also use additional modern tools to speed up development and improve code quality, I know and apply in modern practice of project architecture, their implementation and support.__
@@ -30,6 +31,9 @@ __I've been studying frontend development for over a year and have been working 
 [![AINER's GitHub | Stats](https://stats.quira.sh/AINER/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=AINER)
 [![AINER's Stack Overflow | Stats](https://stats.quira.sh/AINER/stack-overflow?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=AINER)
 
+<a href="https://t.me/O_nlog_n"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=2ca5e0"/></a>  
+<a href="mailto:mail@htmlacademy.ru"><img src="https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail&logoColor=Black"/></a>
+  
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/javascript-efd003?style=for-the-badge&logo=javascript&logoColor=black"/>  
