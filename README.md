@@ -2,9 +2,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
   <p>Hi, my name is Denis</p>
   <p>I am Frontend Developer</p>
-  <a href="https://t.me/O_nlog_n"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram&logoColor=2ca5e0"/></a>  
-  <a href="mailto:mail@htmlacademy.ru"><img src="https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail&logoColor=Black"/></a>
+  <a href="https://t.me/O_nlog_n"><img src="https://img.shields.io/badge/Telegram: O_nlog_n-2CA5E0?style=social&logo=telegram&logoColor=2ca5e0"/></a>  
+  <a href="mailto:dv.demin@outlook.com"><img src="https://img.shields.io/badge/Email: dv.demin@outlook.com-D14836?style=social&logo=gmail&logoColor=red"/></a>
 </h1>
+
 
 I've been studying frontend development for over a year and have been working with modern versions of HTML, CSS and JS. I also use additional modern tools to speed up development and improve code quality, I know and apply in modern practice of project architecture, their implementation and support.
 
