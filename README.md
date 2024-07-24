@@ -6,7 +6,7 @@
 </h1>
 
 
-I've been studying frontend development for over a year and have been working with modern versions of HTML, CSS and JS. I also use additional modern tools to speed up development and improve code quality, I know and apply modern practice of project architecture in their implementation and support.
+I've been studying frontend development for over a year and have been working with modern versions of HTML, CSS and JS. I also use additional modern tools to speed up development and improve code quality, I know and apply modern practice of project architecture in development.
 
 🌱  I'm learning TypeScript and React
 
