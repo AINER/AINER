@@ -12,7 +12,7 @@ I've been studying frontend development for over a year and have been working wi
 
 🌍  I speak English and Russian
 
-💌  Get touch with me:  [Telegram: O_nlog_n](https://t.me/O_nlog_n)  •  [Email: dv.demin@outlook.com](mailto:dv.demin@outlook.com)
+💌  Get touch with me: [Telegram: O_nlog_n](https://t.me/O_nlog_n) • [Email: dv.demin@outlook.com](mailto:dv.demin@outlook.com)
 
 
 ## My tech stack
