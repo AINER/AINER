@@ -22,9 +22,9 @@ I've been studying frontend development for over a year and have been working wi
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg" height="27"/> 
 <img src="https://github.com/AINER/AINER/blob/main/js.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" height="27"/> 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg" height="27"/> 
