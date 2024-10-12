@@ -16,17 +16,17 @@ I've been studying frontend development for over a year and have been working wi
 
 
 ## My tech stack
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" height="27"/></a> 
-<a href="https://www.w3.org/Style/CSS/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" height="27"/> 
-<a href="https://262.ecma-international.org/15.0/index.html"><img src="https://github.com/AINER/AINER/blob/main/js.svg" height="27"/> 
-<a href="https://getbootstrap.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg" height="27"/> 
-<a href="https://sass-lang.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg" height="27"/> 
-<a href="https://nodejs.org/en"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" height="27"/> 
-<a href="https://jestjs.io/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" height="27"/> 
-<a href="https://eslint.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg" height="27"/> 
-<a href="https://www.npmjs.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" height="27"/> 
-<a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" height="27"/> 
-<a href="https://www.figma.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" height="27"/> 
+<img src="https://github.com/AINER/AINER/blob/main/js.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" height="27"/> 
 
 
 <!--
