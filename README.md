@@ -29,7 +29,11 @@ I've been studying frontend development for over a year and have been working wi
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/i18next/i18next3.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lodash/lodash3.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" height="27"/> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg" height="27"/> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg" height="27"/> 
 
 
 <!--
