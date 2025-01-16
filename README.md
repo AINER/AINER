@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px"/>
   <p>Hi, my name is Denis</p>
-  <p>I am Frontend Developer</p>
+  <p>I am a Frontend Developer</p>
 
 </h1>
 
